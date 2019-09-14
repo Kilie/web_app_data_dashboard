@@ -1,7 +1,13 @@
 ## Web App: World Bank Data Dashboard
 This repository contains the back- and front-end files for building a web app for a data dashboard to show the land use of the top 10 world economies, including the change of arable land (hectares per person) from 1990 to 2015, the fertilizer consumption (kilograms per hectare of arable land) in 2015, the rural population (% of total population) in 2015, and the change in forest land (% of land area) from 1990 to 2015. 
 
-The origincal data for these graphs was obtained from the World Bank Open Data API. 
+The origincal data for these graphs was obtained from the [World Bank Open Data](https://data.worldbank.org/) API. 
+
+## Installation
+> Python 3:
+>> pandas, NumPy, Plotly, Flask, Gunicorn, Jinja2, requests, PySpark
+
+A detailed list of the packages for this web app is shown in the requirements.txt file.
 
 ## File Description
 There are files for both the back-end and front-end as well as for deploying the web app to [Heroku](https://www.heroku.com).
