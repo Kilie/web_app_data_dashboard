@@ -23,4 +23,4 @@ There are files for both the back-end and front-end as well as for deploying the
 4. The Procfile and requirements.txt are for deploying the web app to Heroku. The requirement.txt file lists out all the pacakages needed for making this web app.
 
 ## Contribution
-Anyone is very welcome to contribute to this repository by either adding more features to the front-end or adding more inspiring graphs to the dashboard et cetera.
+Anyone is welcome to contribute to this repository by either adding more features to the front-end or adding more inspiring graphs to the dashboard et cetera.
