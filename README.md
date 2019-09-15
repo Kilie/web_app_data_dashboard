@@ -3,6 +3,8 @@ This repository contains the back- and front-end files for building a web app fo
 
 The origincal data for these graphs was obtained from the [World Bank Open Data](https://data.worldbank.org/) API. 
 
+This web app was deployed to Heroku and can be viewed [here](https://jing-worldbankdata-dashboard.herokuapp.com/).
+
 ## Installation
 > Python 3:
 >> pandas, NumPy, Plotly, Flask, Gunicorn, Jinja2, requests, PySpark
